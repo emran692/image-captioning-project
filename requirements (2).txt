@@ -1,0 +1,9 @@
+tensorflow>=2.8.0
+numpy
+keras
+matplotlib
+pandas
+pickle5
+tqdm
+Pillow
+scikit-learn
